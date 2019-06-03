@@ -1,2 +1,8 @@
 # SZYBrokenMovementCollectionViewLayout
-能支持有空缺位置的可拖拽 CollectionLayout，适合有部分 items 拖拽时固定的场景
+
+### Case
+Can support drag and drop CollectionLayout with vacant position, suitable for some cases item be fixed when dragging.
+
+### ScreenShot
+![img](smooth_screenshot.jpg)
+
